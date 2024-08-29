@@ -1,4 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+<a href="https://app.daily.dev/trungdang"><img src="https://api.daily.dev/devcards/v2/AlyhYGfKnMGAl0B4DBva9.png?type=default&r=qwv" width="356" alt="Trung Lê Đặng Thành's Dev Card"/></a>
 
 <!--
 **TrungLeDangThanh/TrungLeDangThanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
